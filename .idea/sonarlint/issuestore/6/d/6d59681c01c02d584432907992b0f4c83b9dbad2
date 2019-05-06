@@ -1,0 +1,19 @@
+
+Gsquid:S1172."+Remove this unused method parameter "resp".(βΔΙΛϊÿÿÿÿ
+Xsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(Θ£Δΐ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Θ£Δΐ
+©%squid:RedundantThrowsDeclarationCheck."lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(βΔΙΛϊÿÿÿÿ8σ»γρ¨-
+΄%squid:RedundantThrowsDeclarationCheck."wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(βΔΙΛϊÿÿÿÿ8σ»γρ¨-
+Isquid:S1989"&Add a "try/catch" block for "forward".(ήψ²εύÿÿÿÿ8σ»γρ¨-
+Isquid:S1989"&Add a "try/catch" block for "forward".(ήψ²εύÿÿÿÿ8σ»γρ¨-
+Isquid:S1989"&Add a "try/catch" block for "forward".(ήψ²εύÿÿÿÿ8σ»γρ¨-
+Isquid:S1989"&Add a "try/catch" block for "forward".(ήψ²εύÿÿÿÿ8σ»γρ¨-
+Fsquid:S1989#"(Add a "try/catch" block for "saveUsers".(ρΊ—8σ»γρ¨-
+Jsquid:S1989$",Add a "try/catch" block for "createSession".(ΗΧ¬–8σ»γρ¨-
+Jsquid:S1989$",Add a "try/catch" block for "createSession".(ΗΧ¬–8σ»γρ¨-
+Isquid:S1989&"+Add a "try/catch" block for "sendRedirect".(‡ΟΟ¶8σ»γρ¨-
+Isquid:S1989*"&Add a "try/catch" block for "forward".(ήψ²εύÿÿÿÿ8σ»γρ¨-
+Isquid:S1989*"&Add a "try/catch" block for "forward".(ήψ²εύÿÿÿÿ8σ»γρ¨-
+vsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Ξ‰Υ8σ»γρ¨-
+Xsquid:S1161":Add the "@Override" annotation above this method signature(ΉΒ·8σ»γρ¨-
+]squid:S1161":Add the "@Override" annotation above this method signature(τƒΧξÿÿÿÿÿ8σ»γρ¨-

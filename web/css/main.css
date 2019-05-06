@@ -1,0 +1,21 @@
+h1 {
+    font-size: 11px;
+    font-weight: normal;
+    color: red;
+}
+
+p {
+    font-weight: bold;
+    text-align: left;
+    margin: 20px 0 20px 20px;
+}
+
+a {
+    background-color: rgb(166, 81, 48);
+    color: rgb(96, 149, 236);
+}
+
+a:hover {
+    background-color: rgb(98, 118, 17);
+}
+

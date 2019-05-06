@@ -1,0 +1,31 @@
+* {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: rgb(236, 236, 236);
+}
+
+
+body {
+    background-color: rgb(44, 46, 57);
+}
+
+h1 {
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+
+a {
+    background-color: rgb(26, 119, 116);
+}
+
+
+a:hover {
+    background-color: rgb(14, 84, 82);
+}
+
+
+p {
+    background-color: rgb(14, 84, 82);
+    border: 1px solid rgb(40, 40, 40);
+    border-radius: 5px;
+}

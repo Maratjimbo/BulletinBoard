@@ -1,0 +1,7 @@
+
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(®Âûèûÿÿÿÿ
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+squid:S1319*"The return type of this method should be an interface such as "ConcurrentMap" rather than the implementation "ConcurrentHashMap".(“¢Ïûÿÿÿÿ
+Ssquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
